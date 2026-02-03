@@ -6,3 +6,4 @@ class Solution:
             if need in mp:
                 return [mp[need], i]
             mp[nums[i]] = i
+            
